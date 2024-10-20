@@ -1,6 +1,7 @@
 ![image](https://github.com/user-attachments/assets/91ef5a73-2361-4919-8718-a742e8e500d4)
 
 The challenge will give us an ELF format file. Download it and ghidra it as usual when you do any Reverse Engineering challenge. 
+I will switch between online decompiler and kali ghidra due to the completeness of the decompilation to understand the code
 If don't have ghidra, you can use Decompiler Explorer tot use it (https://dogbolt.org/)
 
 After ghidra the file, you will found a function has leak something about a key and a obfuscated string
