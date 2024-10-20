@@ -20,8 +20,11 @@ Then using the secret key to XOR with the obfuscated string.
 ![image](https://github.com/user-attachments/assets/093d320f-8784-474c-8b3b-30bf8e94fe27)
 
 **FLAG**
+
 flag{uS3Rs-k3y-R3v3Rs3d-lol}
 
+
+NOTE:
 To check if it can access the website with the flag (x-auth-key), you just try it with chrome (with mod header extension) or curl command in kali
 ![image](https://github.com/user-attachments/assets/c25bf0a4-5529-4157-8b5f-95231a2ed673)
 Chrome
