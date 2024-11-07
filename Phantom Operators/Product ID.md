@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/270c9db9-9e45-449f-8bd6-f53845634bf7)
 
-The challenge says look for product id, and is from a non-compliant Windows host and not his work-provided laptop b Garry Sartoris. 
+The challenge says look for product id, and is from a non-compliant Windows host and not his work-provided laptop by Garry Sartoris. 
 At first I thought it was RDP but it show up nothing so I check for more detailes from Analyze Protocol Hierarchy
 ![image](https://github.com/user-attachments/assets/f42fc557-90cc-4d3c-b11f-ad1f6fd071c8)
 
